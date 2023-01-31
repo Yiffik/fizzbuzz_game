@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023.01.31 17:17:59.138,=D:\study\programming\Project1PCH1.h</Transaction>
+    <Transaction>2023.01.31 17:17:59.172,=D:\study\programming\File1.cpp</Transaction>
+    <Transaction>2023.01.31 19:43:05.308,D:\git\FizzBuzzPCH1.h=D:\study\programming\Project1PCH1.h</Transaction>
+    <Transaction>2023.01.31 19:43:05.323,D:\git\File1.cpp=D:\study\programming\File1.cpp</Transaction>
+    <Transaction>2023.01.31 19:43:05.329,D:\git\FizzBuzz.cbproj=D:\study\programming\Project1.cbproj</Transaction>
+    <Transaction>2023.01.31 19:43:21.990,D:\git\FizzBuzzFile.cpp=D:\git\File1.cpp</Transaction>
+    <Transaction>2023.01.31 19:43:27.584,D:\git\FizzBuzz.cbproj=D:\git\FizzBuzz.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
